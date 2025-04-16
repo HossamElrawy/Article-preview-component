@@ -1,7 +1,5 @@
 # Article Preview Component
 
-![Project Screenshot](./images/screenshot.png) <!-- Add your screenshot if available -->
-
 A responsive article preview card component with interactive share functionality. Built with HTML, CSS, and JavaScript.
 
 ## Features
